@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body style="background-color:gray;">
+<background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials.jpg");>
+
+<h1 style="border: 10px solid #3e9efe; padding: 10px; background-color: #80bfff; color: red; font-family: Arial,helvetica; font-size: 50px; font-weight: bold;"><center>El problema de no prestar atención en clases</h1>
+
+<p style="
+	border: 10px solid #3e9efe;
+	padding: 10px;
+	background-color: #80bfff;
+	color: red;
+	font-family: Arial,helvetica;
+	font-size: 30px;
+	font-weight: bold;
+    margin: 60px 40px 60px 40px">
+		<FONT FACE="impact" SIZE=6 COLOR="red">Algunos metodos para evitar desconcentrarte en clases virtuales pueden ser: <br/></font>
+		<FONT face="Time new roman" SIZE=6>
+        			 Duerme bien por la noche<br/>
+                     	<FONT face="Time new roman" SIZE=4>Esto quiere decir no olvidar la tarea y hacerla en la madrugada<br/></font>
+					 Ve preparado a tus clases<br/>
+                     	<FONT face="Time new roman" SIZE=4>Si quieres tener un buen rendimiento, es importante que siempre lleves todos tus materiales contigo y los tengas listos a la hora de empezar la clase.<br/></font>
+
+					 Toma nota<br/>
+                     	<FONT face="Time new roman" SIZE=4>Todos tendemos a olvidar lo que el profesor dice después de clase. No te olvides de llevar un cuaderno y lapicera para tomar nota de todo lo que se dice durante el curso. Si logras tener apuntes prolijos, éstos te serán de gran ayuda a la hora de estudiar.<br/></font>
+
+					 asdasd.</font></p>
+
+<pre>
+Escribo esta línea así
+
+
+Dejo dos líneas de separación
+
+
+
+y escribo tres más.
+</pre>
+
+<FONT SIZE=3>A</font><FONT SIZE=4>A</font><FONT SIZE=5>A</font>
+</p>
+<img src="https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials.jpg" width="600" height="400"><br/>
+
+    <div style="text-align:center;">
+    <p style="
+	border: 10px solid #3e9efe;
+	padding: 10px;
+	background-color: #0CB417;
+	font-weight: bold;
+    margin: 80px 200px 60px 200px;
+    border-radius: 10px 0px 39px 22px;
+    border: white 12px outset;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FGBhQbmPwH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+    </p>
+    </div>
+
+	<div style="text-align:right;">
+    <p style="
+    border: white 20px ridge;
+    padding: 10px;
+	background:linear-gradient(30deg, crimson,sienna, royalblue, indianred, purple);
+    margin: 80px 5px 60px 400px;
+    border-radius: 50px 0px 50px 50px;
+	color: red;
+	font-family: Arial,helvetica;
+	font-size: 30px;
+	font-weight: bold;">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/y1Lhxvl0ap8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</body>
+</html>
